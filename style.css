@@ -23,7 +23,6 @@ body {
     right: 0;
     bottom: 0;
     z-index: -1;
-    mix-blend-mode: lighten;
 }
 header{
     display: flex;
